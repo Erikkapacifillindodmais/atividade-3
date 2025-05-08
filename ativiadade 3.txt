@@ -8,7 +8,8 @@ R: apareceu "Olá mundoComo vai" no console.
 
 Ex-3
 
-R: no console do exercício 2 apareceu "Olá mundoComo vai" tudo junto, Só que no console do exercício 3, não aconteceu a mesma coisa, devido, a presença do \n que pula vai para próxima linha quando colocado dentro das aspas.
+R: no console do exercício 2 apareceu "Olá mundoComo vai" tudo junto, Só que no console do exercício 3, não aconteceu a mesma coisa, devido,
+a presença do \n que pula vai para próxima linha quando colocado dentro das aspas.
 
 
 Ex-4
@@ -23,7 +24,8 @@ R: Foi escrito no console:
 300
 100+200
 
-a) foi escrito 123, depois ele foi pra próxima linha, foi escrito a soma de "100+200", 300, depois ele foi para próxima linha, dai foi escrito literalmente "100+200"
+a) foi escrito 123, depois ele foi pra próxima linha, foi escrito a soma de "100+200", 300, depois ele foi para próxima linha, dai foi escrito
+literalmente "100+200"
 
 b) quando se coloca somente os números, exemplo:
 
@@ -37,11 +39,13 @@ b) quando se coloca somente os números, exemplo:
 
 Ex-6
 
-R: Primeiro ele definiu que a variável "idade" seria igual a 21, Depois ele pediu que verificasse se idade fosse maior ou igual a 18 escreveria no console maior de idade,
+R: Primeiro ele definiu que a variável "idade" seria igual a 21, Depois ele pediu que verificasse se idade fosse maior ou igual a 18 escreveria
+no console maior de idade,
 
 Ex-7
 
-R: Ele escreveu de 5 até 1 no console, um numero por linha. Ele definiu que "cont" era igual a 5, Dai ele mandou escrever o valor de "cont" até ele ser igual a zero, e a cada vez que era escrito ele diminuía um valor de "cont". Aparecendo assim no console:
+R: Ele escreveu de 5 até 1 no console, um numero por linha. Ele definiu que "cont" era igual a 5, Dai ele mandou escrever o valor de "cont" até
+ele ser igual a zero, e a cada vez que era escrito ele diminuía um valor de "cont". Aparecendo assim no console:
 
 5
 4
